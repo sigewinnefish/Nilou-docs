@@ -1,0 +1,11 @@
+services:
+  bettergi-dev:
+    container_name: bettergi-dev
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: sh -c "pnpm install && pnpm docs:dev --host 0.0.0.0 --port 8080 --debug"
+    restart: always
