@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Home
-heroImage: /assets/logo.png
+heroImage: /@assets/logo.png
 bgImageStyle:
   background-attachment: fixed
 heroText: Nilou · GI Injection Toolkit
@@ -15,7 +15,7 @@ actions:
 
 highlights:
   - header: Features List
-    image: /assets/app.png
+    image: /@assets/app.png
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
