@@ -8,9 +8,9 @@ bgImageStyle:
 heroText: Nilou · GI Injection Toolkit
 tagline: A Genshin Impact Injection Toolkit powered by WinUI3
 actions:
-  - text: Comming Soon
+  - text: Comming Soon... try sigewinne toolkit?
     icon: circle-down
-    link: ./
+    link: https://github.com/sigewinnefish/sigewinne-toolkit/releases/tag/v6.2b0
     #type: primary
 
 highlights:
